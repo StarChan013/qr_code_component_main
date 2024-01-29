@@ -16,13 +16,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./images/screenshot_final_project.PNG)
+![](./src/screenshot_final_project.PNG)
 
 ### Links
 
-- Solution URL: 
+- Solution URL: [https://starchan013.github.io/qr_code_component_main/]
 
 ## My process
+
 
 ### Built with
 
