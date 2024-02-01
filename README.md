@@ -29,7 +29,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - HTML5
 - CSS
-- Virtual Studio Code
+- Visual Studio Code
 
 ## Author
 
